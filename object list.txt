@@ -1,0 +1,27 @@
+person
+car
+motorcycle
+bus
+truck
+traffic light
+fire hydrant
+stop sign
+bench
+cat
+dog
+backpack
+bottle
+cup
+fork
+spoon
+bowl
+chair
+bed
+dining table
+tv
+laptop
+cell phone
+book  
+scissors
+crosswalk
+tree

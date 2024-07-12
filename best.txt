@@ -1,0 +1,17 @@
+Backpack
+Bed
+Bench
+Bottle
+Car
+Cell Phone
+Chair
+Cup
+Dining Table
+Knife
+Person
+Sink
+Spoon
+Stop Sign
+Traffic Light
+
+
